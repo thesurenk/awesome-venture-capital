@@ -59,3 +59,5 @@ by [Eric Ries]() - Sep 2011
 * [GGV Capital](https://www.ggvc.com/) - USA, Singapore, China
 * [IVP](https://www.ivp.com/) - CA, USA
 * [Greaylock Partners](https://greylock.com/)
+* [Prithvi Ventures](https://prithvivc.com) - New York, NY, USA. Seed-stage fund backing Energy, deeptech, hardware, infrastructure and supply chain founders
+* [Ayuh Ventures](https://ayuhvc.com) - New York, NY, USA. Early-stage fund backing healthcare, neuroscience and medtech founders
